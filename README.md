@@ -21,3 +21,7 @@ temps #Duree en seconde entre chaque ping
 #Mettre les commandes si ping nok
 
 #Mettre les commandes si ping est revenu ok
+
+2 - Pour lancer le programme :
+
+python /home/pi/Python_Ping/Ping.py
